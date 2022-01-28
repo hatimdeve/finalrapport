@@ -8,7 +8,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="1.png" alt="Logo" width="800" height="360">
+    <img src="3.png" alt="Logo" width="800" height="360">
   <h2 align="center">application for class</h2>
   <h3 align="center">dynamic web page using  MVC.</h3>
 </div>
@@ -34,8 +34,16 @@
     
  le but de cette application est offrir aux étudiants la possibilité de **s’inscrire** afin de **visualiser une description de la formation cycle d ingénierie TWM** avec une **description des module**s par semestre. Le compte administrateur doit permettre de **créer** le contenu et le **modifier**. De plus, il doit aussi pouvoir **gérer** les comptes utilisateurs.
     <br />
+ un service de **messagerie** interne aux étudiants du TWM (sans utiliser d’API de messagerie) à l’aide duquel les utilisateurs inscrits peuvent: 
+    
+  * envoyer des messages à leurs contacts
+  * créer et gérer les groupes de contacts
+  * recevoir et consulter des notifications des messages entrants
+  * gérer les messages (recherche et suppression)
+
+    
 <div align="center">
-    <img src="todo/1.png" alt="Logo" width="800" height="360">
+    <img src="4.png" alt="Logo" width="800" height="360">
    <p align="center">Overview of our application.</p>
 </div>
     
