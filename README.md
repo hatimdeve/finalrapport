@@ -19,7 +19,7 @@
 <details>
  <ol class="list-group list-group-numbered">
      <li class="list-group-item"> <a href="#Introduction">Introduction </a></li>
-  <li class="list-group-item"> <a href="#Use-Cases">Use Cases</a> </li>
+  <li class="list-group-item"> <a href="#Modélisation">Modélisation</a> </li>
   <li class="list-group-item"> <a href="#Defining-a-Task">Defining a Task</a> </li>
    <li class="list-group-item"> <a href="#MVC-Model">MVC Model</a> </li>
 </ol>
@@ -47,69 +47,15 @@
    <p align="center">Overview of our application.</p>
 </div>
     
-   when u open the application u can see that the **taks** that are **finished** are in **green** , **today tasks** are with **blue** and they can be **finiched or not** and **pending** with **red** ,and this the constructor of our application
-    
-```cpp
-homework::homework(QWidget *parent)
-    : QMainWindow(parent)
-    , ui(new Ui::homework)
-{
-//    makeconnexion();
-     QTextStream out(stdout);
-    ui->setupUi(this);
-   Dialog F;
-     makeconnexion();
-   QTextCharFormat fmt,fmt1,fmt2;
-   fmt.setBackground(Qt::red);
-   fmt1.setBackground(Qt::green);
-   fmt2.setBackground(Qt::blue);
-    auto model =new QSqlQueryModel;
-    QString cell1=QDate::currentDate().toString("yyyy-MM-dd");
-//    QString cell1=QDate::currentDate().toString("yyyy-MM-dd");
-    auto query= QSqlQuery(F.getdata());
-    QString view{"select  finished,datework from tasks"};
-    query.exec(view);
-
-    while (query.next()) {
-           QString finished = query.value(0).toString();
-            QString datework = query.value(1).toString();
-           QDate Date = QDate::fromString(datework,"yyyy-MM-dd");
-           QString d=Date.toString("yyyy-MM-dd");
-           if( finished=="0" && datework<cell1)
-        ui->calendarWidget->setDateTextFormat(Date, fmt1);
-
-           if( finished=="2" && datework>cell1)
-        ui->calendarWidget->setDateTextFormat(Date, fmt);
-
-             if( finished=="1" || datework==cell1)
-             ui->calendarWidget->setDateTextFormat(Date, fmt2);
-
-             if(finished=="2" && datework==cell1 ){
-           ui->calendarWidget->setDateTextFormat(Date, fmt2);
-           QString upadate{"UPDATE  tasks set  finished=1 where finished=2"};
-           query.exec(upadate);
-             }
-             if( finished=="1" && datework<cell1){
-                 ui->calendarWidget->setDateTextFormat(Date, fmt1);
-                 QString upadate{"UPDATE  tasks set  finished=0 where finished=1 "};
-                 query.exec(upadate);
-             }
-out<<d;
-
-       }
-
-}
-};
-    
-```
+  
 <p align="right">(<a href="#top">back to top</a>)</p>
     
 
     
-<div id="Use-Cases">
+<div id="Modélisation">
   
 <!-- ABOUT THE PROJECT -->
-## Use Cases
+## Modélisation
     
 Here is a list of **cases** that the user could **perform** with our app:
 
