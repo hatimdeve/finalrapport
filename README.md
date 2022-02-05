@@ -18,6 +18,7 @@
 <!-- TABLE OF CONTENTS -->
 <details>
  <ol class="list-group list-group-numbered">
+     <li class="list-group-item"> <a href="#Remerciements">Remerciements </a></li>
      <li class="list-group-item"> <a href="#Introduction">Introduction </a></li>
   <li class="list-group-item"> <a href="#Modélisation">Modélisation</a> </li>
   <li class="list-group-item"> <a href="#Les-outils-de-développement">Les outils de développement</a> </li>
@@ -25,6 +26,17 @@
 </ol>
 </details>
 
+<div id="Remerciements">
+  
+<!-- ABOUT THE PROJECT -->
+## Remerciements
+    
+Au nom d’Allah le tout miséricordieux,<br />
+Tout d’abord, on remercie spécialement, Monsieur le Professeur Mr. ANAS BELCAID, pour son encadrement, tous ses conseils, ses encouragements, et la confiance qu'il nous a accordée tout au long de la période de ce semestre.
+
+On avait l'honneur d'être encadré au par le Professeur Mr. ANAS BELCAID et on voudrait le remercier pour le temps qu'il nous a consacré tout au long de ce semestre, sachant répondre à toutes nos interrogations.
+
+Finalement, nos vifs remerciements s'adressent à vous monsieur pour avoir agrée d’évaluer ce travail.
 
 
 <div id="Introduction">
