@@ -254,14 +254,27 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
    * admin(qui sont nous) .
    * étudiant.
    
-   tout d'abord on l'interface pour créer un compte .
-   
-    je crée compte admin.
+   tout d'abord on l'interface pour créer un compte .</br>
+    on crée compte admin.
     </br>
      <p align="center">
-     <img src="hatim/3.png">
-         <p align="center">page d'accueil.</p>
+     <img src="hatim/14.png">
+         <p align="center">compte admin.</p>
    </p>
+   on crée deux compte pour étudiant.
+   </br>
+     <p align="center">
+     <img src="hatim/22.png">
+         <p align="center">compte souhaila.</p>
+   </p>
+   </br>
+     <p align="center">
+     <img src="hatim/23.png">
+         <p align="center">compte amin.</p>
+   </p>
+   
+   maintenant on passe au login.
+   1. admin
    
      * [QTableView](https://doc.qt.io/qt-5/qtableview.html#:~:text=A%20QTableView%20implements%20a%20table,by%20Qt's%20model%2Fview%20architecture.)
    * for the model i used QSqlQueryModel
