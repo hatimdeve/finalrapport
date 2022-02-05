@@ -251,8 +251,8 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
    </p>
    un utilisateur de notre application et un étudiant et il doit avoir un compte et etre enregistré avant d'accéder à l'application ,il y'a  deux type de compte:
    
-   * admin(qui sont nous) .
-   * étudiant.
+   * **admin(qui sont nous)** .
+   * **étudiant**.
    
    tout d'abord on l'interface pour créer un compte .</br>
     on crée compte admin.
@@ -274,7 +274,7 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
    </p>
    
    maintenant on passe au login.
-   1. admin
+   1. **admin**
    </br>
      <p align="center">
      <img src="hatim/15.png">
@@ -309,7 +309,7 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
    </p>
    comme vous pouvez voir l'admin a la possibilité de modifier ou de supprimer un étudiant.
    
-   * modification  
+   * **modification**  
    quand il click sur l'icône de modifcation une modale va apparaître pour modifier.
      </br>
      <p align="center">
@@ -322,7 +322,7 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
          <p align="center">test modification.</p>
    </p>
    
-  * suppression 
+  * **suppression** 
   
    si il click sur l'icone de suppression l'etudiant vas etre supprimer 
      </br>
@@ -377,7 +377,7 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
           
      
      
-   * un seul étudiant    </br>
+   * **un seul étudiant**    </br>
    quand l'admin veut envoyer le message il click sur la flèche et une modale apparaît . 
    </br> 
      <p align="center">
@@ -388,7 +388,7 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
      <img src="hatim/38.png">
          <p align="center"> envoie du message avec succès.</p>
          
-   * groupe d'étudiants </br>
+   * **groupe d'étudiants** </br>
    quand l'admin veut envoyer un message a un groupe d'étudiants il sélectionne  les étudiants a ceux il veut envoyer et le message désiré. 
      </br>
      <p align="center">
@@ -455,12 +455,21 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
      pour les interfaces des étudiants sont les mêmes que l'admin sauf que les etudiant n'ont pas d'ajouter ou de modifier ou de supprimer un module ils ont juste la possibilité de voir le module 
      </br>
      <p align="center">
-     <img src="hatim/49.png">
-         <p align="center"> message vue.</p>
+     <img src="hatim/52.png">
+         <p align="center"> interface module .</p>
+         comme vous voyez il n'a pas le droit de supprimer un module il peut just voir la description on cliquant sur le module.
+         </br>
+     <p align="center">
+     <img src="hatim/53.png">
+         <p align="center"> description du module .</p>
+        il n' pas aussi la possibilité de modifier.</br>
+        et aussi au niveau de l'interface de la visualisation des étudiants il n'a pas le droit ni de modifier ni de supprimer un étudiant.
+         </br>
+     <p align="center">
+     <img src="hatim/51.png">
+         <p align="center"> interface des étudiants .</p>
          
-   * [QTableView](https://doc.qt.io/qt-5/qsqlquerymodel.html)
-   * for the database i used i local database 
-   * [QSQLITE](https://doc.qt.io/qt-5/sql-driver.html)
+ 
  
 Our Team - [darkaoui hatim](https://github.com/hatimdeve) - [khaoula oularbi](https://github.com/Khawla1609)
       </br>
