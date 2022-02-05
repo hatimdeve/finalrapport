@@ -331,13 +331,50 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
          <p align="center">suppression.</p>
    
    maintenant on passe a l'interfaces pour la gestion des modules.
-   
-   
-     * [QTableView](https://doc.qt.io/qt-5/qtableview.html#:~:text=A%20QTableView%20implements%20a%20table,by%20Qt's%20model%2Fview%20architecture.)
+        </br>
+     <p align="center">
+     <img src="hatim/28.png">
+         <p align="center">interface modules1.</p>
+     </br>
+     <p align="center">
+     <img src="hatim/29.png">
+         <p align="center">interface modules2.</p>
+       si l'admin veut ajouter module il click sur add module.   
+         </br>
+     <p align="center">
+     <img src="hatim/30.png">
+         <p align="center">ajouter modules.</p>
+             </br>
+    si il veut modifier un module il sélectionne le module désiré apres une modale apparaît pour editer.
+             </br>
+     <p align="center">
+     <img src="hatim/31.png">
+         <p align="center">modifier modules.</p>
+         changement des infos du module désiré 
+             </br>
+     <p align="center">
+     <img src="hatim/32.png">
+         <p align="center"> modifier modules1.</p>
+                </br>
+     <p align="center">
+     <img src="hatim/33.png">
+         <p align="center"> test modifier modules.</p>
+       maintenant on passe a la suppression d'un module,quand l'admin click sur delete le module sera supprimé.
+         </br>
+     <p align="center">
+     <img src="hatim/34.png">
+         <p align="center">  suppression modules.</p>
+         </br>
+     <p align="center">
+     <img src="hatim/35.png">
+         <p align="center"> test suppression modules.</p>
+      on fin on passe a la partie qui concerne l'envoie des messages,pour ce test on a ajouter quelque étudiant .
+         
+   * [QTableView](https://doc.qt.io/qt-5/qtableview.html#:~:text=A%20QTableView%20implements%20a%20table,by%20Qt's%20model%2Fview%20architecture.)
    * for the model i used QSqlQueryModel
-     * [QTableView](https://doc.qt.io/qt-5/qsqlquerymodel.html)
+   * [QTableView](https://doc.qt.io/qt-5/qsqlquerymodel.html)
    * for the database i used i local database 
-     * [QSQLITE](https://doc.qt.io/qt-5/sql-driver.html)
+   * [QSQLITE](https://doc.qt.io/qt-5/sql-driver.html)
  
 Our Team - [darkaoui hatim](https://github.com/hatimdeve) - [khaoula oularbi](https://github.com/Khawla1609)
       </br>
