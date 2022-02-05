@@ -369,9 +369,40 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
      <img src="hatim/35.png">
          <p align="center"> test suppression modules.</p>
       on fin on passe a la partie qui concerne l'envoie des messages,pour ce test on a ajouter quelque étudiant .
+         </br>
+     <p align="center">
+     <img src="hatim/36.png">
+         <p align="center"> interface envoie des messages.</p>
+     ily'a deux option  on peux envoyer un message a un étudiant bien défini ou a un groupe d'étudiants </br>
+          
+     
+     
+   * un seul étudiant    </br>
+   quand l'admin veut envoyer le message il click sur la flèche et une modale apparaît . 
+   </br> 
+     <p align="center">
+     <img src="hatim/37.png">
+         <p align="center"> envoie des messages.</p>
+          </br>
+     <p align="center">
+     <img src="hatim/38.png">
+         <p align="center"> envoie du message avec succès.</p>
          
-   * [QTableView](https://doc.qt.io/qt-5/qtableview.html#:~:text=A%20QTableView%20implements%20a%20table,by%20Qt's%20model%2Fview%20architecture.)
-   * for the model i used QSqlQueryModel
+   * groupe d'étudiants </br>
+   quand l'admin veut envoyer un message a un groupe d'étudiants il sélectionne  les étudiants a ceux il veut envoyer et le message désiré. 
+     </br>
+     <p align="center">
+     <img src="hatim/39.png">
+         <p align="center"> sélection du groupe.</p>
+              </br>
+     <p align="center">
+     <img src="hatim/40.png">
+         <p align="center"> envoie du message a un groupe.</p>
+      </br>
+     <p align="center">
+     <img src="hatim/41.png">
+         <p align="center"> envoie du message avec succès.</p>
+         
    * [QTableView](https://doc.qt.io/qt-5/qsqlquerymodel.html)
    * for the database i used i local database 
    * [QSQLITE](https://doc.qt.io/qt-5/sql-driver.html)
