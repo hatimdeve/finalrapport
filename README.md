@@ -286,7 +286,55 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
      <img src="hatim/16.png">
          <p align="center">page principale.</p>
    </p>
+   comme vous pouvez voir on a une sidebar composée d'une liste de choix et une navbar ou il y'a deux icônes une pour les notification des messages reçus l'autre pour modifer notre profile où pour se déconnecté.
    
+   voici l'interface pour modifier son profile.
+   </br>
+     <p align="center">
+     <img src="hatim/17.png">
+         <p align="center">interface modifier profile.</p>
+   </p>
+   si on change nos infos et on click sur edit ils vont etre changer.
+     </br>
+     <p align="center">
+     <img src="hatim/24.png">
+         <p align="center">modification.</p>
+   </p>
+   
+   maintenant on passe a l'interface où il ya les étudiants qui sont inscrit.
+      </br>
+     <p align="center">
+     <img src="hatim/18.png">
+         <p align="center">modification.</p>
+   </p>
+   comme vous pouvez voir l'admin a la possibilité de modifier ou de supprimer un étudiant.
+   
+   * modification  
+   quand il click sur l'icône de modifcation une modale va apparaître pour modifier.
+     </br>
+     <p align="center">
+     <img src="hatim/18.png">
+         <p align="center">modification.</p>
+   </p>
+     </br>
+     <p align="center">
+     <img src="hatim/18.png">
+         <p align="center">modification.</p>
+   </p>
+   
+  * suppression 
+  
+   si il click sur l'icone de suppression l'etudiant vas etre supprimer 
+     </br>
+     <p align="center">
+     <img src="hatim/18.png">
+         <p align="center">modification.</p>
+   </p>
+     </br>
+     <p align="center">
+     <img src="hatim/18.png">
+         <p align="center">modification.</p>
+   </p>
      * [QTableView](https://doc.qt.io/qt-5/qtableview.html#:~:text=A%20QTableView%20implements%20a%20table,by%20Qt's%20model%2Fview%20architecture.)
    * for the model i used QSqlQueryModel
      * [QTableView](https://doc.qt.io/qt-5/qsqlquerymodel.html)
