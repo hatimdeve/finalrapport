@@ -402,11 +402,28 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
      <p align="center">
      <img src="hatim/41.png">
          <p align="center"> envoie du message avec succès.</p>
+         pour etre sur de l'envoi de vais a l'interface de des messages envoyés.
+         </br>
+     <p align="center">
+     <img src="hatim/42.png">
+         <p align="center"> interfaces messages envoyé.</p>
+         comme vous voyiez j'ai les messages que j'ai envoyé. </br>
        maintenant si on se déconnecte avec l' admin et on se  connecte avec un étudiant par exemple souhaila et je vais a la partie message reçu.
        </br>
      <p align="center">
-     <img src="hatim/42.png">
-         <p align="center"> envoie du message avec succès.</p>
+     <img src="hatim/43.png">
+         <p align="center"> interfaces messages reçus.</p>
+      on constate que elle recu deux notif .</br>
+      si elle veut répondre elle click sur la fleche du message  a qui elle veut répondre une modale apparaît où elle peut répondre .
+      </br>
+     <p align="center">
+     <img src="hatim/44.png">
+         <p align="center"> répondre aux messages reçus.</p>
+          quand elle envoie le message un message de succès  apparaît pour indiquer que sa reponse a été bien envoyer  .
+          </br>
+     <p align="center">
+     <img src="hatim/45.png">
+         <p align="center"> répondre aux messages reçus avec succès.</p>
          
    * [QTableView](https://doc.qt.io/qt-5/qsqlquerymodel.html)
    * for the database i used i local database 
