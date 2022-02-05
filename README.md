@@ -402,6 +402,11 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
      <p align="center">
      <img src="hatim/41.png">
          <p align="center"> envoie du message avec succès.</p>
+       maintenant si on se déconnecte avec l' admin et on se  connecte avec un étudiant par exemple souhaila et je vais a la partie message reçu.
+       </br>
+     <p align="center">
+     <img src="hatim/42.png">
+         <p align="center"> envoie du message avec succès.</p>
          
    * [QTableView](https://doc.qt.io/qt-5/qsqlquerymodel.html)
    * for the database i used i local database 
