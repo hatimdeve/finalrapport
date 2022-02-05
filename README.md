@@ -305,7 +305,7 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
       </br>
      <p align="center">
      <img src="hatim/18.png">
-         <p align="center">modification.</p>
+         <p align="center">interface étudiant.</p>
    </p>
    comme vous pouvez voir l'admin a la possibilité de modifier ou de supprimer un étudiant.
    
@@ -313,13 +313,13 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
    quand il click sur l'icône de modifcation une modale va apparaître pour modifier.
      </br>
      <p align="center">
-     <img src="hatim/18.png">
-         <p align="center">modification.</p>
+     <img src="hatim/25.png">
+         <p align="center">modification étudiant.</p>
    </p>
      </br>
      <p align="center">
-     <img src="hatim/18.png">
-         <p align="center">modification.</p>
+     <img src="hatim/26.png">
+         <p align="center">test modification.</p>
    </p>
    
   * suppression 
@@ -327,14 +327,12 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
    si il click sur l'icone de suppression l'etudiant vas etre supprimer 
      </br>
      <p align="center">
-     <img src="hatim/18.png">
-         <p align="center">modification.</p>
-   </p>
-     </br>
-     <p align="center">
-     <img src="hatim/18.png">
-         <p align="center">modification.</p>
-   </p>
+     <img src="hatim/27.png">
+         <p align="center">suppression.</p>
+   
+   maintenant on passe a l'interfaces pour la gestion des modules.
+   
+   
      * [QTableView](https://doc.qt.io/qt-5/qtableview.html#:~:text=A%20QTableView%20implements%20a%20table,by%20Qt's%20model%2Fview%20architecture.)
    * for the model i used QSqlQueryModel
      * [QTableView](https://doc.qt.io/qt-5/qsqlquerymodel.html)
