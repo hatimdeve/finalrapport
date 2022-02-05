@@ -205,8 +205,10 @@ WampServer n'est pas en soi un logiciel, mais un environnement Comprenant :
      <img src="hatim/11.png">
          <p align="center">Logo de JQuery.</p>
    </p>
-     * **Entreprise Architect** 
+   
+   * **architect entreprise** 
     </br>
+    
 C’est un logiciel de modélisation et de conception UML, édité par la société australienne Sparx Systems. Couvrant, par ses fonctionnalités, l'ensemble des étapes du cycle de conception d'application, il est l'un des logiciels de conception et de modélisation les plus reconnus.       
 
 
@@ -226,7 +228,7 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
      <img src="hatim/13.png">
          <p align="center">Logo d'Eclipse IDE.</p>
    </p>
-                            <p align="right">(<a href="#top">back to top</a>)</p> 
+                            
    
    
    
@@ -235,8 +237,32 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
   
 <!-- ABOUT THE PROJECT -->
 ## Les interfaces de l’application 
+    
    
-   * for the view i used qtableview
+     
+    
+   
+    
+   avant d'accéder a notre application on une page d'accueil.
+    </br>
+     <p align="center">
+     <img src="hatim/3.png">
+         <p align="center">page d'accueil.</p>
+   </p>
+   un utilisateur de notre application et un étudiant et il doit avoir un compte et etre enregistré avant d'accéder à l'application ,il y'a  deux type de compte:
+   
+   * admin(qui sont nous) .
+   * étudiant.
+   
+   tout d'abord on l'interface pour créer un compte .
+   
+    je crée compte admin.
+    </br>
+     <p align="center">
+     <img src="hatim/3.png">
+         <p align="center">page d'accueil.</p>
+   </p>
+   
      * [QTableView](https://doc.qt.io/qt-5/qtableview.html#:~:text=A%20QTableView%20implements%20a%20table,by%20Qt's%20model%2Fview%20architecture.)
    * for the model i used QSqlQueryModel
      * [QTableView](https://doc.qt.io/qt-5/qsqlquerymodel.html)
