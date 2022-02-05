@@ -275,6 +275,17 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
    
    maintenant on passe au login.
    1. admin
+   </br>
+     <p align="center">
+     <img src="hatim/15.png">
+         <p align="center">login admin.</p>
+   </p>
+   quand il click sur log in l'admin accède la page principale de l'application.
+   </br>
+     <p align="center">
+     <img src="hatim/16.png">
+         <p align="center">page principale.</p>
+   </p>
    
      * [QTableView](https://doc.qt.io/qt-5/qtableview.html#:~:text=A%20QTableView%20implements%20a%20table,by%20Qt's%20model%2Fview%20architecture.)
    * for the model i used QSqlQueryModel
