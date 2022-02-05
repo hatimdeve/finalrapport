@@ -424,6 +424,39 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
      <p align="center">
      <img src="hatim/45.png">
          <p align="center"> répondre aux messages reçus avec succès.</p>
+          elle aussi l'option de visualiser le message.
+          </br>
+     <p align="center">
+     <img src="hatim/50.png">
+         <p align="center"> visualiserle message reçu.</p>
+         l'option de la recherche du message( la recherche par n'importe quelle caractère ).
+          </br>
+     <p align="center">
+     <img src="hatim/46.png">
+         <p align="center">  recherche du message.</p>
+          et aussi l'option de suppression 
+          </br>
+     <p align="center">
+     <img src="hatim/47.png">
+         <p align="center"> suppression d'un message reçu.</p> 
+         quand on supprime on voie que les notification sont décrémentées.</br>
+      maintenant je me déconnecte avec souhaila et je reviens a l'admin et je me rends au message reçu je constate que j'ai eu une notif qu'est la reponse de souhaila .
+              </br>
+     <p align="center">
+     <img src="hatim/48.png">
+         <p align="center"> réponse d'un message envoyé.</p> 
+         quand je me rend maintenant aux messages envoyés je constate que nos messages on était vu car la bouton seen et on vert. 
+         </br>
+     <p align="center">
+     <img src="hatim/49.png">
+         <p align="center"> message vue.</p> 
+     
+ 2. **étudiants** </br>
+     pour les interfaces des étudiants sont les mêmes que l'admin sauf que les etudiant n'ont pas d'ajouter ou de modifier ou de supprimer un module ils ont juste la possibilité de voir le module 
+     </br>
+     <p align="center">
+     <img src="hatim/49.png">
+         <p align="center"> message vue.</p>
          
    * [QTableView](https://doc.qt.io/qt-5/qsqlquerymodel.html)
    * for the database i used i local database 
