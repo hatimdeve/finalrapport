@@ -32,9 +32,9 @@
 ## Remerciements
     
 Au nom d’Allah le tout miséricordieux,<br />
-Tout d’abord, on remercie spécialement, Monsieur le Professeur Mr. ANAS BELCAID, pour son encadrement, tous ses conseils, ses encouragements, et la confiance qu'il nous a accordée tout au long de la période de ce semestre.
+Tout d’abord, on remercie spécialement, Monsieur le Professeur Mr. AMAMOU AHMED, pour son encadrement, tous ses conseils, ses encouragements, et la confiance qu'il nous a accordée tout au long de la période de ce semestre.
 
-On avait l'honneur d'être encadré au par le Professeur Mr. ANAS BELCAID et on voudrait le remercier pour le temps qu'il nous a consacré tout au long de ce semestre, sachant répondre à toutes nos interrogations.
+On avait l'honneur d'être encadré au par le Professeur Mr. AMAMOU AHMED et on voudrait le remercier pour le temps qu'il nous a consacré tout au long de ce semestre, sachant répondre à toutes nos interrogations.
 
 Finalement, nos vifs remerciements s'adressent à vous monsieur pour avoir agrée d’évaluer ce travail.
 
@@ -483,8 +483,8 @@ Outils pour les développeurs Java créant des applications Java EE et Web, y co
          
  
  
-Our Team - [darkaoui hatim](https://github.com/hatimdeve) - [khaoula oularbi](https://github.com/Khawla1609)
+Realiser par - [darkaoui hatim](https://github.com/hatimdeve) 
       </br>
-Project Link: [https://github.com/hatimdeve/todoapp](https://github.com/hatimdeve/todoapp)
+
 
    <p align="right">(<a href="#top">back to top</a>)</p>
